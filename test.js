@@ -1,1 +1,1 @@
-test = require('test')
+test = require('test-2')
